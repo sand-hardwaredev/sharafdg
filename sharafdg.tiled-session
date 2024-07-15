@@ -1,0 +1,80 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "sharafdg-exterior.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1637,
+                "y": 702
+            }
+        },
+        "sharafdg-exterior.json#Collides": {
+            "scaleInDock": 1
+        },
+        "sharafdg-exterior.json#sharafdg-exterior": {
+            "scaleInDock": 1
+        },
+        "sharafdg-kiosks.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1290.5,
+                "y": 1090
+            }
+        },
+        "sharafdg-kiosks.json#Collides": {
+            "scaleInDock": 1
+        },
+        "sharafdg-kiosks.json#sharafdg-kiosks": {
+            "scaleInDock": 1
+        },
+        "sharafdg-lobby.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1290,
+                "y": 820
+            }
+        },
+        "sharafdg-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "sharafdg-lobby.json#sharafdg-lobby": {
+            "scaleInDock": 1
+        },
+        "sharafdg-showroom.json": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1528.7878787878788,
+                "y": 275.75757575757575
+            }
+        },
+        "sharafdg-showroom.json#Collides": {
+            "scaleInDock": 1
+        },
+        "sharafdg-showroom.json#sharafdg-showroom": {
+            "scaleInDock": 1
+        },
+        "sharafdg-showroom.json#sharafdg-showroom-overlay": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+    ],
+    "project": "sharafdg.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true
+}
