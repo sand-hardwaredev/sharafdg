@@ -9,10 +9,10 @@
     "fileStates": {
         "sharafdg-exterior.json": {
             "scale": 0.5,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1637,
-                "y": 702
+                "x": 1635,
+                "y": 700
             }
         },
         "sharafdg-exterior.json#Collides": {
@@ -22,11 +22,11 @@
             "scaleInDock": 1
         },
         "sharafdg-kiosks.json": {
-            "scale": 1,
-            "selectedLayer": 3,
+            "scale": 0.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1290.5,
-                "y": 1090
+                "x": 1427,
+                "y": 752
             }
         },
         "sharafdg-kiosks.json#Collides": {
