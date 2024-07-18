@@ -375,7 +375,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=xiaomi&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
+                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=Apple&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
                         }]
                 }, 
                 {
@@ -402,7 +402,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=huawei&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
+                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=Samsung&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
                         }]
                 }, 
                 {
@@ -411,7 +411,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=honor&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
+                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=xiaomi&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
                         }]
                 }, 
                 {
@@ -420,7 +420,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=nothing&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
+                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=motorola&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
                         }]
                 }, 
                 {
@@ -429,7 +429,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=Apple&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles+%26+Tablets+%3E+Mobiles"
+                         "value":"https:\/\/uae.sharafdg.com\/lg-televisions\/"
                         }]
                 }, 
                 {
@@ -438,7 +438,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=motorola&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
+                         "value":"https:\/\/uae.sharafdg.com\/c\/tv_video_audio\/tvs\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=Sony"
                         }]
                 }, 
                 {
@@ -447,7 +447,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=Samsung&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
+                         "value":"https:\/\/uae.sharafdg.com\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=Lenovo&dFR%5Btaxonomies.product_cat%5D%5B0%5D=Laptops&post_type=product"
                         }]
                 }, 
                 {
@@ -456,7 +456,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=oneplus&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
+                         "value":"https:\/\/uae.sharafdg.com\/shop\/?dFR%5Btaxonomies.attr.Brand%5D%5B0%5D=huawei&hFR%5Btaxonomies.taxonomies_hierarchical%5D%5B0%5D=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
                         }]
                 }, 
                 {
