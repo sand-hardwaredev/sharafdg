@@ -65,8 +65,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1290,
-                "y": 1533.333333333333
+                "x": 1288.6666666666667,
+                "y": 1532
             }
         },
         "sharafdg-festival.json#Collides": {
@@ -80,11 +80,11 @@
             "scaleInDock": 1
         },
         "sharafdg-kiosks.json": {
-            "scale": 0.5,
+            "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1415,
-                "y": 698
+                "x": 1393,
+                "y": 1097.3333333333333
             }
         },
         "sharafdg-kiosks.json#Collides": {
@@ -95,11 +95,11 @@
             "scaleInDock": 1
         },
         "sharafdg-lobby.json": {
-            "scale": 0.5,
-            "selectedLayer": 5,
+            "scale": 0.75,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 737,
-                "y": 754
+                "x": 1698,
+                "y": 73.33333333333337
             }
         },
         "sharafdg-lobby.json#Collides": {
@@ -128,10 +128,10 @@
         },
         "sharafdg-showroom.json": {
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1634,
-                "y": 737.3333333333334
+                "x": 1054,
+                "y": 733.3333333333334
             }
         },
         "sharafdg-showroom.json#Collides": {
@@ -142,7 +142,7 @@
             "scaleInDock": 1
         },
         "sharafdg-showroom.json#sharafdg-showroom-overlay": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         }
     },
     "map.height": 51,
@@ -151,20 +151,21 @@
     "openFiles": [
         "sharafdg-exterior.json",
         "sharafdg-lobby.json",
-        "sharafdg-kiosks.json",
         "sharafdg-showroom.json",
-        "E:/wfh-temp/gamedev/ihc/getting-started/getting-started-7.json",
-        "E:/wfh-temp/gamedev/ihc/getting-started/getting-started-6.json"
+        "sharafdg-office.json",
+        "sharafdg-kiosks.json"
     ],
     "project": "sharafdg.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "sharafdg-showroom.json",
-        "E:/wfh-temp/gamedev/ihc/getting-started/getting-started-6.json",
-        "E:/wfh-temp/gamedev/ihc/getting-started/getting-started-7.json",
         "sharafdg-exterior.json",
         "sharafdg-lobby.json",
-        "sharafdg-kiosks.json"
+        "sharafdg-showroom.json",
+        "sharafdg-office.json",
+        "sharafdg-kiosks.json",
+        "sharafdg-festival.json",
+        "E:/wfh-temp/gamedev/ihc/getting-started/getting-started-6.json",
+        "E:/wfh-temp/gamedev/ihc/getting-started/getting-started-7.json"
     ],
     "tileset.embedInMap": true
 }
