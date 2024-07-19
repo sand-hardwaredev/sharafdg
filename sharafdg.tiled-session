@@ -83,8 +83,8 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1393,
-                "y": 1097.3333333333333
+                "x": 1391.6666666666665,
+                "y": 1096
             }
         },
         "sharafdg-kiosks.json#Collides": {
@@ -98,8 +98,8 @@
             "scale": 0.75,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 1698,
-                "y": 73.33333333333337
+                "x": 1424,
+                "y": 784
             }
         },
         "sharafdg-lobby.json#Collides": {
@@ -113,8 +113,8 @@
             "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1193,
-                "y": 1344
+                "x": 1495,
+                "y": 784
             }
         },
         "sharafdg-office.json#Collides": {
@@ -130,8 +130,8 @@
             "scale": 0.75,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 1054,
-                "y": 733.3333333333334
+                "x": 1378.6666666666665,
+                "y": 784
             }
         },
         "sharafdg-showroom.json#Collides": {
